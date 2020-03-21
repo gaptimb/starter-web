@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. More get starter.
 
 ## Introduction
 This is introduction section 
@@ -15,4 +15,4 @@ Deployment details are here
 
 ## How to contribute
 
-do u know how to contribute
+do u know how to contribute. yes i know
