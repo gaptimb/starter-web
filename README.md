@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 Deployment details are here
 
 ## How to contribute
+
+do u know how to contribute
