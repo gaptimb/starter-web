@@ -16,3 +16,6 @@ Deployment details are here
 ## How to contribute
 
 do u know how to contribute. yes i know
+
+### Copyright
+copyright information 2020
